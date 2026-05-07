@@ -5,4 +5,5 @@ sum=n+n
 # multi=n*n
 #divide=n%n
 #power=n**n
-print(f{num} and {num} = {power}")
+print(f"{num} and {num} = {power}")
+gi
