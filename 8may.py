@@ -9,9 +9,18 @@
 # for i in range(5,10.,1): (we can use any of the alphabate as a loop)
     #print(i)
     #print(i,end="") use of end for horizontal
-for i in range (1,21,-1):
-    if 1%2==0:
-        print(f"ODD:(i)")
-    else:
-        print(f"EVEN:(i)")
-# wao to takes start_point and end_point from user inpiut and print print all the number divisible by2 and 3
+#for i in range (1,21,-1):
+ #      print(f"EVEN:(i)")
+# wap to takes start_point and end_point from user inpiut and print print all the number divisible by2 and 3
+# d=int(input("select any number"))
+# if d>=6 and d<=10:
+#     for i in range(1,11,1):
+#      print(f"{d}x{i}={d*i}")
+# else:
+#     print("invalid")
+d=int(input("select any number"))
+if d<=10 and d>=6:
+    for i in range(11,1,-1):
+     print(f"{d}x{i}={d*i}")
+else:
+    print("invalid")
