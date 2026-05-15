@@ -19,7 +19,7 @@
 # for i in name:
 #     reverse_name=i+reverse_name
 # print(reverse_name)
-name="python"
-size=len(name)
-for i in range(size):
-    print(name[i],name,i)
+# name="python"
+# size=len(name)
+# for i in range(size):
+#     print(name[i],name,i)

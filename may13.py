@@ -6,6 +6,6 @@
 # for i in range(len(strings)):
 #     sum+=i
 #     print("sum of indices=",sum)
-sum=0
-for i in range(1,9):
+# sum=0
+# for i in range(1,9):
      
